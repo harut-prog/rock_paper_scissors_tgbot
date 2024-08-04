@@ -27,8 +27,7 @@ This project is a simple Telegram bot that allows you to play Rock-Paper-Scissor
 ## Running the Bot
 
 1. *Start the bot:*
-   ``` bash
-   bash
+   ```
    python main.py
    ```
    
