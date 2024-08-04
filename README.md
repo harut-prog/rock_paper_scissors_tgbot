@@ -18,21 +18,17 @@ This project is a simple Telegram bot that allows you to play Rock-Paper-Scissor
 ## Installation
 
 1. *Install Python:* Make sure you have Python installed on your computer.
-2. *Install dependencies:* 
-   bash
-   pip install -r requirements.txt
-   3. *Set up environment variables:* 
+2. *Set up environment variables:* 
    - Create a .env file in the root directory of your project.
-   - Add your Telegram bot token as follows:
-     
-     BOT_TOKEN=YOUR_BOT_TOKEN
-        - Replace YOUR_BOT_TOKEN with your actual Telegram bot token.
+   - Add your Telegram bot token as follows:  
+   BOT_TOKEN=YOUR_BOT_TOKEN
+   - Replace YOUR_BOT_TOKEN with your actual Telegram bot token.
 
 ## Running the Bot
 
 1. *Start the bot:*
-   bash
-   python main.py
+   *bash*
+   *python main.py*
    
 ## Usage
 
@@ -56,7 +52,6 @@ This project is for educational purposes only. The author is not responsible for
 Remember to replace placeholders with actual information about your project:
 
 * Bot's Username:  Add the actual username of your bot in the "Usage" section.
-* Dependencies:  List the dependencies in requirements.txt and mention them in the "Installation" section.
 * Specific Instructions:  Add specific instructions for setting up environment variables and running the bot.
 * Contributing Guidelines:  If you want to accept contributions, add a "Contributing" section with guidelines for contributors. 
 
