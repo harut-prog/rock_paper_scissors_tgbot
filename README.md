@@ -54,6 +54,4 @@ Remember to replace placeholders with actual information about your project:
 
 * Bot's Username:  Add the actual username of your bot in the "Usage" section.
 * Specific Instructions:  Add specific instructions for setting up environment variables and running the bot.
-* Contributing Guidelines:  If you want to accept contributions, add a "Contributing" section with guidelines for contributors. 
-
-I hope this helps!
+* Contributing Guidelines:  If you want to accept contributions, add a "Contributing" section with guidelines for contributors.
